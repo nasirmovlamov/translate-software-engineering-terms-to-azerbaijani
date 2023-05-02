@@ -10,7 +10,7 @@ function App() {
     if (!data.word) return setWords(wordList);
     // filter words
     setWords([
-      ...words.filter((word) => {
+      ...wordList.filter((word) => {
         return (
           word.word.includes(data.word) ||
           word.translation.includes(data.word) ||
