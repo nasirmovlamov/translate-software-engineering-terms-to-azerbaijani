@@ -1,0 +1,497 @@
+[
+  {
+    "word": "class component",
+    "translation": "klas komponent",
+    "definition": ""
+  },
+  {
+    "word": "controlled component",
+    "translation": "kontrol olunan komponent",
+    "definition": ""
+  },
+  {
+    "word": "click",
+    "translation": "tıklamaq",
+    "definition": ""
+  },
+  {
+    "word": "context",
+    "translation": "kontekst",
+    "definition": ""
+  },
+  {
+    "word": "component",
+    "translation": "komponent",
+    "definition": ""
+  },
+  {
+    "word": "fragments",
+    "translation": "fraqmentlər",
+    "definition": ""
+  },
+  {
+    "word": "functional component",
+    "translation": "funskional komponent",
+    "definition": ""
+  },
+  {
+    "word": "portal",
+    "translation": "portal",
+    "definition": ""
+  },
+  {
+    "word": "properties",
+    "translation": "parametrlər",
+    "definition": ""
+  },
+  {
+    "word": "prop(s)",
+    "translation": "prop(lar)",
+    "definition": ""
+  },
+  {
+    "word": "lifecycle",
+    "translation": "lifecycle",
+    "definition": ""
+  },
+  {
+    "word": "ref",
+    "translation": "ref",
+    "definition": ""
+  },
+  {
+    "word": "render",
+    "translation": "render",
+    "definition": ""
+  },
+  {
+    "word": "state (in context of React components)",
+    "translation": "state",
+    "definition": ""
+  },
+  {
+    "word": "state (in general context)",
+    "translation": "vəziyyət",
+    "definition": ""
+  },
+  {
+    "word": "stateful component",
+    "translation": "state-li komponent",
+    "definition": ""
+  },
+  {
+    "word": "Concurrent Mode",
+    "translation": "Konkurrent Rejimi",
+    "definition": ""
+  },
+  {
+    "word": "accessibility",
+    "translation": "imkanlılıq",
+    "definition": ""
+  },
+  {
+    "word": "anchor",
+    "translation": "anker təqi",
+    "definition": ""
+  },
+  {
+    "word": "application",
+    "translation": "applikasiya",
+    "definition": ""
+  },
+  {
+    "word": "array",
+    "translation": "massiv",
+    "definition": ""
+  },
+  {
+    "word": "arrow function",
+    "translation": "arrow funkiyası",
+    "definition": ""
+  },
+  {
+    "word": "asynchronous",
+    "translation": "asinxron",
+    "definition": ""
+  },
+  {
+    "word": "attributes",
+    "translation": "atributlar",
+    "definition": ""
+  },
+  {
+    "word": "bug",
+    "translation": "baq",
+    "definition": ""
+  },
+  {
+    "word": "callback",
+    "translation": "geri çağıran",
+    "definition": ""
+  },
+  {
+    "word": "cache",
+    "translation": "kəş",
+    "definition": ""
+  },
+  {
+    "word": "child",
+    "translation": "uşaq",
+    "definition": ""
+  },
+  {
+    "word": "class",
+    "translation": "sinif",
+    "definition": ""
+  },
+  {
+    "word": "command",
+    "translation": "əmr",
+    "definition": ""
+  },
+  {
+    "word": "composition",
+    "translation": "kompozisiya",
+    "definition": ""
+  },
+  {
+    "word": "conditional rendering",
+    "translation": "şərtli render",
+    "definition": ""
+  },
+  {
+    "word": "constructor",
+    "translation": "konstuktor",
+    "definition": ""
+  },
+  {
+    "word": "crash",
+    "translation": "çökmə",
+    "definition": ""
+  },
+  {
+    "word": "current",
+    "translation": "cari",
+    "definition": ""
+  },
+  {
+    "word": "data",
+    "translation": "məlumat",
+    "definition": ""
+  },
+  {
+    "word": "debug",
+    "translation": "dibaq",
+    "definition": ""
+  },
+  {
+    "word": "declarative",
+    "translation": "deklarativ",
+    "definition": ""
+  },
+  {
+    "word": "DOM",
+    "translation": "DOM",
+    "definition": ""
+  },
+  {
+    "word": "elements",
+    "translation": "elementlər",
+    "definition": ""
+  },
+  {
+    "word": "event handler",
+    "translation": "hadisə işləyicisi",
+    "definition": ""
+  },
+  {
+    "word": "expression",
+    "translation": "ifadə",
+    "definition": ""
+  },
+  {
+    "word": "external plugins",
+    "translation": "xarici pluginlər",
+    "definition": ""
+  },
+  {
+    "word": "extent",
+    "translation": "genişləndirmək",
+    "definition": ""
+  },
+  {
+    "word": "extention",
+    "translation": "genişlənmə",
+    "definition": ""
+  },
+  {
+    "word": "example",
+    "translation": "nümunə",
+    "definition": ""
+  },
+  {
+    "word": "export",
+    "translation": "ixrac",
+    "definition": ""
+  },
+  {
+    "word": "extract",
+    "translation": "ixrac",
+    "definition": ""
+  },
+  {
+    "word": "framework",
+    "translation": "freymvork",
+    "definition": ""
+  },
+  {
+    "word": "guide",
+    "translation": "təlimat",
+    "definition": ""
+  },
+  {
+    "word": "hierarchy",
+    "translation": "ierarxiya",
+    "definition": ""
+  },
+  {
+    "word": "higher order function",
+    "translation": "yüksək dərəcəli funksiya",
+    "definition": ""
+  },
+  {
+    "word": "immutability",
+    "translation": "dəyişməzlik",
+    "definition": ""
+  },
+  {
+    "word": "imperative",
+    "translation": "imperativ",
+    "definition": ""
+  },
+  {
+    "word": "implementation",
+    "translation": "tətbiq",
+    "definition": ""
+  },
+  {
+    "word": "import",
+    "translation": "idxal",
+    "definition": ""
+  },
+  {
+    "word": "inheritance",
+    "translation": "varislik",
+    "definition": ""
+  },
+  {
+    "word": "initialize",
+    "translation": "inisializasiya",
+    "definition": ""
+  },
+  {
+    "word": "instance",
+    "translation": "instansiya (computer term)",
+    "definition": ""
+  },
+  {
+    "word": "interact",
+    "translation": "qarşılıqlı təsir etmək",
+    "definition": ""
+  },
+  {
+    "word": "item",
+    "translation": "element",
+    "definition": ""
+  },
+  {
+    "word": "keyboard",
+    "translation": "klaviatur",
+    "definition": ""
+  },
+  {
+    "word": "library",
+    "translation": "kitabxana",
+    "definition": ""
+  },
+  {
+    "word": "local",
+    "translation": "lokal",
+    "definition": ""
+  },
+  {
+    "word": "map",
+    "translation": "uzlaşdırmaq",
+    "definition": ""
+  },
+  {
+    "word": "maintainer",
+    "translation": "saxlayıcı",
+    "definition": ""
+  },
+  {
+    "word": "mock",
+    "translation": "mok",
+    "definition": ""
+  },
+  {
+    "word": "nested",
+    "translation": "iç-içə",
+    "definition": ""
+  },
+  {
+    "word": "node",
+    "translation": "nod",
+    "definition": ""
+  },
+  {
+    "word": "note",
+    "translation": "qeyd",
+    "definition": ""
+  },
+  {
+    "word": "operation",
+    "translation": "əməliyyat",
+    "definition": ""
+  },
+  {
+    "word": "operator",
+    "translation": "operator",
+    "definition": ""
+  },
+  {
+    "word": "output",
+    "translation": "nəticə",
+    "definition": ""
+  },
+  {
+    "word": "package",
+    "translation": "paket",
+    "definition": ""
+  },
+  {
+    "word": "parent",
+    "translation": "valideyn",
+    "definition": ""
+  },
+  {
+    "word": "pattern",
+    "translation": "naxış",
+    "definition": ""
+  },
+  {
+    "word": "plain",
+    "translation": "sadə",
+    "definition": ""
+  },
+  {
+    "word": "polyfill",
+    "translation": "polifil",
+    "definition": ""
+  },
+  {
+    "word": "pooling",
+    "translation": "pulinq",
+    "definition": ""
+  },
+  {
+    "word": "power",
+    "translation": "dəstəkləmək",
+    "definition": ""
+  },
+  {
+    "word": "private",
+    "translation": "özəl",
+    "definition": ""
+  },
+  {
+    "word": "propagate",
+    "translation": "yaymaq",
+    "definition": ""
+  },
+  {
+    "word": "refactor",
+    "translation": "refaktor",
+    "definition": ""
+  },
+  {
+    "word": "reference",
+    "translation": "referans",
+    "definition": ""
+  },
+  {
+    "word": "reset",
+    "translation": "sıfırlamaq",
+    "definition": ""
+  },
+  {
+    "word": "reuse",
+    "translation": "təkrar istifadə",
+    "definition": ""
+  },
+  {
+    "word": "runtime",
+    "translation": "icra müddəti",
+    "definition": ""
+  },
+  {
+    "word": "stack",
+    "translation": "stek",
+    "definition": ""
+  },
+  {
+    "word": "statement",
+    "translation": "ifadə",
+    "definition": ""
+  },
+  {
+    "word": "syntax",
+    "translation": "sintaksis",
+    "definition": ""
+  },
+  {
+    "word": "technology stack",
+    "translation": "texnologiya steki",
+    "definition": ""
+  },
+  {
+    "word": "tip",
+    "translation": "məsləhət",
+    "definition": ""
+  },
+  {
+    "word": "tool",
+    "translation": "alət",
+    "definition": ""
+  },
+  {
+    "word": "tutorial",
+    "translation": "dərslik",
+    "definition": ""
+  },
+  {
+    "word": "UI",
+    "translation": "UI",
+    "definition": ""
+  },
+  {
+    "word": "user",
+    "translation": "istifadəçi",
+    "definition": ""
+  },
+  {
+    "word": "web",
+    "translation": "veb",
+    "definition": ""
+  },
+  {
+    "word": "wrapped component",
+    "translation": "əhatə olan komponent",
+    "definition": ""
+  },
+  {
+    "word": "native",
+    "translation": "nativ",
+    "definition": ""
+  }
+]
