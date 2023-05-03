@@ -493,5 +493,60 @@
     "word": "native",
     "translation": "nativ",
     "definition": ""
+  },
+  {
+    "word": "Object Oriented Programming (OOP)",
+    "translation": "Obyekt Yönlü Proqramlaşdırma",
+    "definition": ""
+  },
+  {
+    "word": "function",
+    "translation": "funksiya",
+    "definition": ""
+  },
+  {
+    "word": "procedure",
+    "translation": "prosedur",
+    "definition": ""
+  },
+  {
+    "word": "method",
+    "translation": "metod",
+    "definition": ""
+  },
+  {
+    "word": "folder",
+    "translation": "qovluq",
+    "definition": ""
+  },
+  {
+    "word": "directory",
+    "translation": "qovluq",
+    "definition": ""
+  },
+  {
+    "word": "variable",
+    "translation": "dəyişən",
+    "definition": ""
+  },
+  {
+    "word": "developer",
+    "translation": "proqramçı",
+    "definition": ""
+  },
+  {
+    "word": "compiler",
+    "translation": "kompilyator",
+    "definition": ""
+  },
+  {
+    "word": "Integration Development Environment",
+    "translation": "Kod inkişaf etdirmə mühiti",
+    "definition": ""
+  },
+  {
+    "word": "system",
+    "translation": "sistem",
+    "definition": ""
   }
 ]
