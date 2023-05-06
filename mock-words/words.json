@@ -548,5 +548,55 @@
     "word": "system",
     "translation": "sistem",
     "definition": ""
+  },
+  {
+    "word": "database",
+    "translation": "databaza",
+    "definition": ""
+  },
+  {
+    "word": "database index",
+    "translation": "databaza indeksi",
+    "definition": ""
+  },
+  {
+    "word": "transaction",
+    "translation": "tranzaksiya",
+    "definition": ""
+  },
+  {
+    "word": "interface",
+    "translation": "interfeys",
+    "definition": ""
+  },
+  {
+    "word": "class",
+    "translation": "klass",
+    "definition": ""
+  },
+  {
+    "word": "object",
+    "translation": "obyekt",
+    "definition": ""
+  },
+  {
+    "word": "constant variable",
+    "translation": "konstant dəyişən",
+    "definition": ""
+  },
+  {
+    "word": "Structured Query Language (SQL)",
+    "translation": "Strukturlaşdırılmış sorğu dili",
+    "definition": ""
+  },
+  {
+    "word": "library",
+    "translation": "kitabxana",
+    "definition": ""
+  },
+  {
+    "word": "commit",
+    "translation": "kommit",
+    "definition": ""
   }
 ]
