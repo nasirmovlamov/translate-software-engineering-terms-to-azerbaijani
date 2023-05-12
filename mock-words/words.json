@@ -493,5 +493,110 @@
     "word": "native",
     "translation": "nativ",
     "definition": ""
+  },
+  {
+    "word": "Object Oriented Programming (OOP)",
+    "translation": "Obyekt Yönlü Proqramlaşdırma",
+    "definition": ""
+  },
+  {
+    "word": "function",
+    "translation": "funksiya",
+    "definition": ""
+  },
+  {
+    "word": "procedure",
+    "translation": "prosedur",
+    "definition": ""
+  },
+  {
+    "word": "method",
+    "translation": "metod",
+    "definition": ""
+  },
+  {
+    "word": "folder",
+    "translation": "qovluq",
+    "definition": ""
+  },
+  {
+    "word": "directory",
+    "translation": "qovluq",
+    "definition": ""
+  },
+  {
+    "word": "variable",
+    "translation": "dəyişən",
+    "definition": ""
+  },
+  {
+    "word": "developer",
+    "translation": "proqramçı",
+    "definition": ""
+  },
+  {
+    "word": "compiler",
+    "translation": "kompilyator",
+    "definition": ""
+  },
+  {
+    "word": "Integration Development Environment",
+    "translation": "Kod inkişaf etdirmə mühiti",
+    "definition": ""
+  },
+  {
+    "word": "system",
+    "translation": "sistem",
+    "definition": ""
+  },
+  {
+    "word": "database",
+    "translation": "databaza",
+    "definition": ""
+  },
+  {
+    "word": "database index",
+    "translation": "databaza indeksi",
+    "definition": ""
+  },
+  {
+    "word": "transaction",
+    "translation": "tranzaksiya",
+    "definition": ""
+  },
+  {
+    "word": "interface",
+    "translation": "interfeys",
+    "definition": ""
+  },
+  {
+    "word": "class",
+    "translation": "klass",
+    "definition": ""
+  },
+  {
+    "word": "object",
+    "translation": "obyekt",
+    "definition": ""
+  },
+  {
+    "word": "constant variable",
+    "translation": "konstant dəyişən",
+    "definition": ""
+  },
+  {
+    "word": "Structured Query Language (SQL)",
+    "translation": "Strukturlaşdırılmış sorğu dili",
+    "definition": ""
+  },
+  {
+    "word": "library",
+    "translation": "kitabxana",
+    "definition": ""
+  },
+  {
+    "word": "commit",
+    "translation": "kommit",
+    "definition": ""
   }
 ]
